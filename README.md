@@ -114,4 +114,4 @@ If you like StarVish, give it a star on GitHub 🌟
 
 ## 📺 Subscribe
 
-Support the project on YouTube: [OrgNothingTheKing](https://youtube.com/OrgNothingTheKing)
+Support the project on YouTube: [NothingTheKing](https://youtube.com/@OrgNothingTheKing)
