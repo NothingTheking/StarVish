@@ -36,9 +36,10 @@ pip install -r requirements.txt
 # Run the bot
 python main.py
 
-# IN DC
+# If using Discord
 -aisetup
 ```
+
 ---
 
 ## ⚙️ Configuration
@@ -47,7 +48,7 @@ Edit the configuration file (`config.json`) to set your API keys, model preferen
 
 Example:
 
-```config
+```json
 {
     "token": "YOUR-BOT-TOKEN",
     "model": "deepseek/deepseek-chat-v3.1",
@@ -63,13 +64,27 @@ Example:
 
 ## 💬 Usage
 
-Once the bot is running, you can start chatting directly in the terminal or through the web interface.
+Once the bot is running, you can start chatting directly in the terminal or through the Discord interface.
 
 Example:
 
 ```
 User: Hi StarVish, how’s the weather today?
 StarVish: It's sunny and 25°C where you are. Perfect day for a walk!
+```
+
+---
+
+## 🖥️ No VPS Needed
+
+Don’t worry! You can use the already-hosted version of the bot:
+
+[Add StarVish AI Bot to Discord](https://discord.com/oauth2/authorize?client_id=1423581217013629000&permissions=8&integration_type=0&scope=bot)
+
+Then run:
+
+```
+-aisetup
 ```
 
 ---
@@ -97,12 +112,8 @@ This project is open-source and available under the [MIT License](LICENSE).
 Special thanks to the open-source community and everyone helping make AI accessible to all.  
 If you like this project, consider giving it a star on GitHub 🌟
 
+---
 
-## No VPS
-Dont worroy just add allredy hosted
+## 📺 Subscribe
 
-https://discord.com/oauth2/authorize?client_id=1423581217013629000&permissions=8&integration_type=0&scope=bot
-and do -aisetup
-
-# Subscibe Me on yt 
-https://youtube.com/OrgNothingTheKing
+Support the project on YouTube: [OrgNothingTheKing](https://youtube.com/OrgNothingTheKing)
