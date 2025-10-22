@@ -48,9 +48,15 @@ Edit the configuration file (`config.json`) to set your API keys, model preferen
 Example:
 
 ```config
-BOT_NAME=StarVish
-OPENAI_API_KEY=your_api_key_here
-LANGUAGE_MODEL=gpt-4
+{
+    "token": "YOUR-BOT-TOKEN",
+    "model": "deepseek/deepseek-chat-v3.1",
+    "api_key": "YOUR-API-KEY",
+    "api_base": "https://openrouter.ai/api/v1",
+    "system_context": "You are AI. Speak English and be polite and helpful like a friend.",
+    "error_message": "Kuch toh galat ho gaya :/",
+    "channel_id": 1415684259716268096
+}
 ```
 
 ---
