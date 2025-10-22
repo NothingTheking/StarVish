@@ -103,3 +103,6 @@ Dont worroy just add allredy hosted
 
 https://discord.com/oauth2/authorize?client_id=1423581217013629000&permissions=8&integration_type=0&scope=bot
 and do -aisetup
+
+# Subscibe Me on yt 
+https://youtube.com/OrgNothingTheKing
